@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weniv_eduapi/static/css/main.9f5ca66b.css",
+    "main.css": "/weniv_eduapi/static/css/main.191516eb.css",
     "main.js": "/weniv_eduapi/static/js/main.27f8601e.js",
     "static/js/5670.6e1c1859.chunk.js": "/weniv_eduapi/static/js/5670.6e1c1859.chunk.js",
     "static/js/8871.20305a2d.chunk.js": "/weniv_eduapi/static/js/8871.20305a2d.chunk.js",
@@ -285,7 +285,7 @@
     "index.html": "/weniv_eduapi/index.html"
   },
   "entrypoints": [
-    "static/css/main.9f5ca66b.css",
+    "static/css/main.191516eb.css",
     "static/js/main.27f8601e.js"
   ]
 }

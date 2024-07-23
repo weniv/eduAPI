@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weniv_eduAPI/static/css/main.2d5db8fb.css",
-    "main.js": "/weniv_eduAPI/static/js/main.1484cc94.js",
+    "main.js": "/weniv_eduAPI/static/js/main.2cfa563b.js",
     "static/js/8855.9a04a174.chunk.js": "/weniv_eduAPI/static/js/8855.9a04a174.chunk.js",
     "static/js/9386.2d26f24b.chunk.js": "/weniv_eduAPI/static/js/9386.2d26f24b.chunk.js",
     "static/js/9199.43264b5e.chunk.js": "/weniv_eduAPI/static/js/9199.43264b5e.chunk.js",
@@ -286,7 +286,7 @@
     "static/media/icon-diagonal-arrow.svg": "/weniv_eduAPI/static/media/icon-diagonal-arrow.18fe2d36c0887cdd6cb2.svg",
     "static/media/icon-down.svg": "/weniv_eduAPI/static/media/icon-down.0164df670a274388183da2ceb6bbf1f7.svg",
     "main.2d5db8fb.css.map": "/weniv_eduAPI/static/css/main.2d5db8fb.css.map",
-    "main.1484cc94.js.map": "/weniv_eduAPI/static/js/main.1484cc94.js.map",
+    "main.2cfa563b.js.map": "/weniv_eduAPI/static/js/main.2cfa563b.js.map",
     "8855.9a04a174.chunk.js.map": "/weniv_eduAPI/static/js/8855.9a04a174.chunk.js.map",
     "9386.2d26f24b.chunk.js.map": "/weniv_eduAPI/static/js/9386.2d26f24b.chunk.js.map",
     "9199.43264b5e.chunk.js.map": "/weniv_eduAPI/static/js/9199.43264b5e.chunk.js.map",
@@ -543,6 +543,6 @@
   },
   "entrypoints": [
     "static/css/main.2d5db8fb.css",
-    "static/js/main.1484cc94.js"
+    "static/js/main.2cfa563b.js"
   ]
 }

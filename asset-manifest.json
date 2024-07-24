@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weniv_eduAPI/static/css/main.2d5db8fb.css",
-    "main.js": "/weniv_eduAPI/static/js/main.2cfa563b.js",
+    "main.css": "/weniv_eduAPI/static/css/main.fa4acf7d.css",
+    "main.js": "/weniv_eduAPI/static/js/main.8fde6537.js",
     "static/js/8855.9a04a174.chunk.js": "/weniv_eduAPI/static/js/8855.9a04a174.chunk.js",
     "static/js/9386.2d26f24b.chunk.js": "/weniv_eduAPI/static/js/9386.2d26f24b.chunk.js",
     "static/js/9199.43264b5e.chunk.js": "/weniv_eduAPI/static/js/9199.43264b5e.chunk.js",
@@ -285,8 +285,8 @@
     "static/media/icon-X.svg": "/weniv_eduAPI/static/media/icon-X.94fc91ed18648b72cf56a051050465be.svg",
     "static/media/icon-diagonal-arrow.svg": "/weniv_eduAPI/static/media/icon-diagonal-arrow.18fe2d36c0887cdd6cb2.svg",
     "static/media/icon-down.svg": "/weniv_eduAPI/static/media/icon-down.0164df670a274388183da2ceb6bbf1f7.svg",
-    "main.2d5db8fb.css.map": "/weniv_eduAPI/static/css/main.2d5db8fb.css.map",
-    "main.2cfa563b.js.map": "/weniv_eduAPI/static/js/main.2cfa563b.js.map",
+    "main.fa4acf7d.css.map": "/weniv_eduAPI/static/css/main.fa4acf7d.css.map",
+    "main.8fde6537.js.map": "/weniv_eduAPI/static/js/main.8fde6537.js.map",
     "8855.9a04a174.chunk.js.map": "/weniv_eduAPI/static/js/8855.9a04a174.chunk.js.map",
     "9386.2d26f24b.chunk.js.map": "/weniv_eduAPI/static/js/9386.2d26f24b.chunk.js.map",
     "9199.43264b5e.chunk.js.map": "/weniv_eduAPI/static/js/9199.43264b5e.chunk.js.map",
@@ -542,7 +542,7 @@
     "7670.83f0d004.chunk.js.map": "/weniv_eduAPI/static/js/7670.83f0d004.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d5db8fb.css",
-    "static/js/main.2cfa563b.js"
+    "static/css/main.fa4acf7d.css",
+    "static/js/main.8fde6537.js"
   ]
 }
